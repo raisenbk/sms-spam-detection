@@ -65,8 +65,6 @@ Untuk menjalankan proyek ini di lingkungan lokal Anda, ikuti langkah-langkah ber
 3.  Buka file notebook `sms-spam-detection.ipynb`.
 4.  Jalankan sel-sel kode di dalam notebook secara berurutan dari atas ke bawah.
 
-## Hasil (Contoh)
+## Hasil
 
 Model Naive Bayes yang dilatih berhasil mencapai akurasi sebesar **92%** pada data uji. Metrik performa lainnya seperti presisi, recall, dan F1-score untuk masing-masing kelas (spam dan ham) dapat dilihat pada output sel evaluasi di dalam notebook.
-
-## Struktur File
